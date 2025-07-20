@@ -1,3 +1,4 @@
+package com.cric;
 
 public class ClassA {
 	private void csk() {
